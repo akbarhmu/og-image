@@ -149,6 +149,8 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
     { text: 'Android', value: 'https://developer.android.com/static/images/brand/Android_Robot.svg' },
+    { text: 'Kotlin Logotype', value: 'https://ngoding-assets.netlify.app/images/Kotlin-Logotype/FullColor/kotlin-black.svg' },
+    { text: 'Kotlin Mark', value: 'https://ngoding-assets.netlify.app/images/Kotlin-Mark/FullColor/kotlin.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -157,6 +159,8 @@ const imageDarkOptions: DropdownOption[] = [
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
     { text: 'Android', value: 'https://developer.android.com/static/images/brand/Android_Robot.svg' },
+    { text: 'Kotlin Logotype', value: 'https://ngoding-assets.netlify.app/images/Kotlin-Logotype/FullColor/kotlin-white.svg' },
+    { text: 'Kotlin Mark', value: 'https://ngoding-assets.netlify.app/images/Kotlin-Mark/FullColor/kotlin.svg' },
 ];
 
 
